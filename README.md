@@ -15,17 +15,17 @@ You can choose one of the four mechanisms here.
 
 ## Real-world Data
 
-data_1.txt: Real-world mechanism proportions presented in the main article.
+* data_1.txt: Real-world mechanism proportions presented in the main article.
 
-data_2.txt: Real-world mechanism proportions presented in the supplementary materials.
+* data_2.txt: Real-world mechanism proportions presented in the supplementary materials.
 
-jd_knowledge_count.txt: The number of knowledge (skill keywords) appearing in job descriptions.
+* jd_knowledge_count.txt: The number of knowledge (skill keywords) appearing in job descriptions.
 
-company_region.pkl: A Python dictionary mapping company names to their respective regions.
+* company_region.pkl: A Python dictionary mapping company names to their respective regions.
 
 Meaning of dictionary values: 1: East Coast, 2: Northeast Region, 3: Central Region, 4: West Region
 
-company_industry.pkl: A Python dictionary mapping company names to their respective industries.
+* company_industry.pkl: A Python dictionary mapping company names to their respective industries.
 
 Meaning of dictionary values:
 1: Agriculture, Forestry, Animal Husbandry, and Fishery,
@@ -52,7 +52,7 @@ Due to privacy reasons, we anonymize all company names.
 
 ## Simulated Data
 
-main_results.txt: Main results of our simulation.
+* main_results.txt: Main results of our simulation.
 
 Due to the randomness in our simulation algorithm, results may vary slightly depending on the random seed used.
 

@@ -23,10 +23,11 @@ jd_knowledge_count.txt: The number of knowledge (skill keywords) appearing in jo
 
 company_region.pkl: A Python dictionary mapping company names to their respective regions.
 
-1: East Coast, 2: Northeast Region, 3: Central Region, 4: West Region
+Meaning of dictionary values: 1: East Coast, 2: Northeast Region, 3: Central Region, 4: West Region
 
 company_industry.pkl: A Python dictionary mapping company names to their respective industries.
 
+Meaning of dictionary values:
 1: Agriculture, Forestry, Animal Husbandry, and Fishery,
 2: Mining,
 3: Manufacturing,

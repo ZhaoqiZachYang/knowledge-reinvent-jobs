@@ -22,9 +22,11 @@ data_2.txt: Real-world mechanism proportions presented in the supplementary mate
 jd_knowledge_count.txt: The number of knowledge (skill keywords) appearing in job descriptions.
 
 company_region.pkl: A Python dictionary mapping company names to their respective regions.
+
 1: East Coast, 2: Northeast Region, 3: Central Region, 4: West Region
 
 company_industry.pkl: A Python dictionary mapping company names to their respective industries.
+
 1: Agriculture, Forestry, Animal Husbandry, and Fishery,
 2: Mining,
 3: Manufacturing,

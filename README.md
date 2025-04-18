@@ -1,6 +1,6 @@
 # Evolutionary modeling reveals that value-oriented knowledge creation behaviors reinvent jobs
 
-This repository includes codes and data used in the paper "Evolutionary modeling reveals that value-oriented knowledge creation behaviors reinvent jobs", which has been accepted in principle by Humanities and Social Sciences Communications (Nature HSSCOMMS).
+This repository includes codes and data used in the paper "Evolutionary modeling reveals that value-oriented knowledge creation behaviors reinvent jobs", published in Humanities and Social Sciences Communications (Nature HSSCOMMS). Please see the following link for our work: https://www.nature.com/articles/s41599-025-04706-1.
 
 ## Codes
 
